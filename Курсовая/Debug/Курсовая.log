@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+c:\users\user\desktop\ \3 семестр\программирование\курсовая\курсовая\myform.h(368): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+c:\users\user\desktop\ \3 семестр\программирование\курсовая\курсовая\myform.h(370): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+c:\users\user\desktop\ \3 семестр\программирование\курсовая\курсовая\myform.h(372): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+c:\users\user\desktop\ \3 семестр\программирование\курсовая\курсовая\myform.h(374): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+c:\users\user\desktop\ \3 семестр\программирование\курсовая\курсовая\myform.cpp(9): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Model.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Курсовая.vcxproj -> C:\Users\user\Desktop\ \3 семестр\Программирование\Курсовая\Debug\Курсовая.exe
